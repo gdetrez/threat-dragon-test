@@ -1,0 +1,22 @@
+{
+  "summary": {
+    "title": "Some model",
+    "owner": "me",
+    "description": "Bla bli blu"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "Me"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "Some diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "me"
+  }
+}
